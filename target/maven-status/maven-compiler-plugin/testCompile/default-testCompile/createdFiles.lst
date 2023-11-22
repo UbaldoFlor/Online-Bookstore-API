@@ -1,0 +1,6 @@
+com\onlinebookstore\repository\AuthorRepositoryTest.class
+com\onlinebookstore\controller\AuthorControllerTest.class
+com\onlinebookstore\controller\GenreControllerTest.class
+com\onlinebookstore\repository\BookRepositoryTest.class
+com\onlinebookstore\repository\GenreRepositoryTest.class
+com\onlinebookstore\controller\BookControllerTest.class

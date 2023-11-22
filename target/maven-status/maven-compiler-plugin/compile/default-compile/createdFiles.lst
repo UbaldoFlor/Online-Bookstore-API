@@ -1,0 +1,10 @@
+com\onlinebookstore\entity\Book.class
+com\onlinebookstore\controller\GenreController.class
+com\onlinebookstore\BookstoreApiApplication.class
+com\onlinebookstore\repository\BookRepository.class
+com\onlinebookstore\entity\Author.class
+com\onlinebookstore\repository\GenreRepository.class
+com\onlinebookstore\entity\Genre.class
+com\onlinebookstore\controller\AuthorController.class
+com\onlinebookstore\repository\AuthorRepository.class
+com\onlinebookstore\controller\BookController.class
