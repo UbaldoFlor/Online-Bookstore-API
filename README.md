@@ -77,3 +77,11 @@ mvn clean test
 ```
 
 Note: The application requires JDK 1.8 or higher and Maven 3.2+ to be installed on your local machine.
+
+## Feedback
+
+- Was it easy to complete the task using AI? Yes, it was pretty easy to generate all files, settings and code for the task.
+- How long did task take you to complete? 5 hours in total, I spent most of the time integrating code to my local environment and solving dependency issues.
+- Was the code ready to run after generation? What did you have to change to make it usable? No, it wasn't ready to execute. I needed to edit dependencies, add import statements and some other features specific from my environment settings.
+- Which challenges did you face during completion of the task? Merge the AI output with my local environment settings.
+- Which specific prompts you learned as a good practice to complete the task? I learned that all prompts must be very specific and should express how the output should be delivered.
